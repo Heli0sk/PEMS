@@ -1,0 +1,10 @@
+Fwy:高速公路号
+Dir:指示高速公路方向的字符串
+County:县标识符
+City:市编号
+State_PM:State Postmile.加州在所有的州际公路上使用postmile高速公路定位标记系统，包括美国航线和州际公路。postmile标记表示一条路线穿过各个县的距离，而里程碑表示穿过一个州的距离。邮差系统是唯一的路线参考
+Abs_PM:Absolute Postmile.
+Type:类型；ML:Mainline;HV:HOV（高乘载车道）
+Lanes:车道总数
+Name：道路名称
+User_ID:User-entered string identifier
